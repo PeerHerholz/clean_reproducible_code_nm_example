@@ -16,7 +16,7 @@ on:
 # and the respective runner, ie virtual machine
 # Here, the workflow runs on the latest ubuntu
 jobs:
-  code-formatting-linting:
+  code-testing:
     runs-on: ubuntu-latest
 
     # Below we define all steps that should be
